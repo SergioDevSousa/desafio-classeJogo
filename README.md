@@ -8,8 +8,6 @@ Neste repositório, insira todos os links e arquivos necessários para seu proje
 
 ## Instruções para entrega
 
----
-
 ### Escrevendo as classes de um Jogo
 
 ### O que deve ser utilizado
